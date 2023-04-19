@@ -1,4 +1,4 @@
-# -Stochastic-Modeling-and-Discrete-Event-Simulation-of-an-Emergency-Department-ED-
+# Stochastic-Modeling-and-Discrete-Event-Simulation-of-an-Emergency-Department-ED-
 Abstract
 Background: In recent times, there has been an increase in the amount of waiting time patient experience in an emergency department (ED). In addition, the emergence of crowded situations and inefficient resource utilization in the EDs have led to prolonged patient service time and poor patient satisfaction on national surveys. Consequently, numerous studies have been done to analyze government health data for strategic solutions to the problem. Nonetheless, in this project we attempted to model the ED system and replicate multiple scenarios that will aid the optimization of the ED service through efficient resource utilization, solve overcrowding problem, and reduce average waiting and service time in the ED.
 
